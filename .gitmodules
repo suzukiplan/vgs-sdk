@@ -1,0 +1,6 @@
+[submodule "vgs-mml-compiler"]
+	path = vgs-mml-compiler
+	url = https://github.com/suzukiplan/vgs-mml-compiler
+[submodule "vgs-cpu"]
+	path = vgs-cpu
+	url = https://github.com/suzukiplan/vgs-cpu
